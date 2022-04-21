@@ -8,4 +8,5 @@
 ## CLI History
 - create react project
 > yarn create vite react-6 --template react-ts
-
+- Installation
+> yarn add react-router-dom@latest
